@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juan (juannfox). I'm from and Argentina and currently working as DevOps; I've also worked before as Cloud Administrator and Help Desk.
+- 👋 Hi, I’m Juan (juannfox) and I'm form Argentina. I'm currently working as DevOps and have also worked before as Cloud Administrator and Help Desk.
 - 👀 In progress: Systems Analyst degree.
 - 🌱 Interested in pretty much anything automation, cloud and Kubernetes related.
 - Powershell 7 fan. Sorry, not sorry.
